@@ -1,0 +1,9 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://andesfoundation.org/sitemap.xml
+
+# Disallow admin/login areas
+Disallow: /drpanel/
